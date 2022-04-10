@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📫 How to reach me: chenmoand@gmail.com
+- 😄 Pronouns: Chenmoand
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitu2)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitu2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
